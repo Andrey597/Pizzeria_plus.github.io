@@ -49,13 +49,14 @@ body{background: #FFA07A url('../img/bbg.png') 130px 50% no-repeat}
 
 .content-img{
 	margin: 0px auto;
-	max-width: 100%;
+	max-width: 830px;
 	box-shadow: 0 65px 15px rgba(0, 0, 0, 0.15);
 	
 }
 
 .content-img img{
-	border: 5px #fff solid;
+	border: 5px #fff solid; 
+	width: 830px;
 	
 	
 }
