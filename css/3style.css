@@ -50,7 +50,7 @@ body{background: #FFA07A url('../img/bbg.png') 130px 50% no-repeat}
 .content-img{
 	margin: 0px auto;
 	max-width: 830px;
-	box-shadow: 0 65px 15px rgba(0, 0, 0, 0.15);
+	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 	
 }
 
